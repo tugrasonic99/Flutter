@@ -1,6 +1,8 @@
 # graph_demo
 
-A new Flutter project.
+Basit Flutter Grafik simulasyonu.
+
+Medium: https://medium.com/@tugrasonic/flutter-tabanl%C4%B1-grafik-tablo-yarat%C4%B1m%C4%B1-c2db003b821e
 
 ## Getting Started
 
